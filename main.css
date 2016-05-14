@@ -1,0 +1,68 @@
+.main-header {
+  height: 75px;
+  width: 100%;
+  padding-top: 25px;
+  background-color: #000;
+  color: #fff;
+}
+
+.logo {
+  width: 20%;
+  margin-left: 25px;
+  font-size: 15px;
+  display: inline-block;
+}
+
+.main-nav {
+  width: 50%;
+  display: inline-block;
+  text-align: right;
+}
+
+.main-nav ul li {
+  display: inline-block;
+}
+
+.main-top-section {
+  height: 50vh;
+  width: 100%;
+  background: url("http://i.imgur.com/8kxU7wK.jpg")center no-repeat;
+  background-size: cover;
+  text-align: center;
+  color: white;
+}
+
+.main-intro {
+  padding: 20px;
+}
+
+.main-intro p {
+  margin-bottom: 20px;
+
+}
+
+.main-intro h2 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.main-img-container img {
+  width: 100%;
+}
+
+/*float left and float left with 50%*/
+
+
+/*background-position: center;
+background-repeat: no-repeat;*/
+
+
+/*rem instead of em*/
+
+/*color is for text and background is for the background color*/
+
+/*display inline block goes for next elements*/
+
+/*pixels arent responsive*/
+
+/*100% and 100 vw for width*/
